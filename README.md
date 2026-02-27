@@ -66,3 +66,9 @@ Unlike simple CRUD apps, this system implements business logic where actions in 
 - **Order Management:** Create and track customer sales orders.
 - **Status Workflow:** Draft ➔ Confirmed ➔ Shipped.
 - **Auto-Invoicing:** Sales orders automatically generate financial records.
+
+- 
+### 4. **Inventory Management (MM)**
+- **Material Master:** Track products, SKUs, and Suppliers.
+- **Stock Valuation:** Real-time stock levels and total asset value.
+- **Low Stock Alerts:** Visual indicators for inventory below threshold
