@@ -154,3 +154,9 @@ venv\Scripts\activate
 git clone https://github.com/rohitpawar-tech/CoreFlow-ERP/blob/main/README.md
 cd sap-erp-simulation
 ```
+
+
+# Mac/Linux
+python3 -m venv venv
+source venv/bin/activate
+```
