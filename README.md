@@ -60,3 +60,9 @@ Unlike simple CRUD apps, this system implements business logic where actions in 
 - Transaction history with categorization (Rent, Payroll, Services).
 
 
+
+
+### 3. **Sales & Distribution (SD)**
+- **Order Management:** Create and track customer sales orders.
+- **Status Workflow:** Draft ➔ Confirmed ➔ Shipped.
+- **Auto-Invoicing:** Sales orders automatically generate financial records.
