@@ -221,3 +221,10 @@ If you want to demo the UI and logic immediately without setting up the Python b
 
 ---
 
+## License
+
+This project is licensed under the MIT License
+
+---
+```
+
