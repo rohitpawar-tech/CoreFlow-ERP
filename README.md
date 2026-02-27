@@ -119,3 +119,17 @@ This project mimics specific architectural concepts found in SAP:
 3.  **Modularity:** Each app (`finance`, `sales`, etc.) represents a distinct module that can theoretically be plugged or unplugged, mirroring SAP's module structure.
 
 ---
+
+
+##  Technology Stack
+
+| Component | Technology |
+| :--- | :--- |
+| **Backend** | Python 3.9+, Django 4.2 |
+| **Frontend** | HTML5, CSS3, Bootstrap 5, JavaScript (ES6+) |
+| **Database** | SQLite3 (Default Django DB) |
+| **Data Viz** | Chart.js |
+| **Icons** | FontAwesome 6 |
+| **IDE** | VS Code |
+
+---
