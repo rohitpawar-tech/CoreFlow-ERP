@@ -173,3 +173,9 @@ python manage.py makemigrations
 python manage.py migrate
 ```
 
+### Step 5: Create Superuser
+```bash
+python manage.py createsuperuser
+# Follow prompts to create admin credentials
+```
+
