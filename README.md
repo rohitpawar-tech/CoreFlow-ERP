@@ -109,3 +109,13 @@ erp_system/
 
 ---
 
+
+##  SAP S/4HANA Simulation Concepts
+
+This project mimics specific architectural concepts found in SAP:
+
+1.  **Integration:** In SAP, an SD (Sales) order creates a FI (Finance) document. This project replicates this by linking the `SalesOrder` model to the `Transaction` model.
+2.  **Master Data:** We maintain "Master Data" (Materials, Customers, Employees) separately from "Transactional Data" (Orders, Journal Entries) to ensure data integrity.
+3.  **Modularity:** Each app (`finance`, `sales`, etc.) represents a distinct module that can theoretically be plugged or unplugged, mirroring SAP's module structure.
+
+---
