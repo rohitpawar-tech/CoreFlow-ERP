@@ -140,3 +140,11 @@ This project mimics specific architectural concepts found in SAP:
 ### Prerequisites
 - Python 3.9 or higher installed.
 - pip (Python package manager).
+
+- 
+
+### Step 1: Clone the Repository
+```bash
+git clone https://github.com/rohitpawar-tech/CoreFlow-ERP/blob/main/README.md
+cd sap-erp-simulation
+```
