@@ -143,6 +143,12 @@ This project mimics specific architectural concepts found in SAP:
 
 - 
 
+
+### Step 2: Create Virtual Environment
+```bash
+# Windows
+python -m venv venv
+venv\Scripts\activate
 ### Step 1: Clone the Repository
 ```bash
 git clone https://github.com/rohitpawar-tech/CoreFlow-ERP/blob/main/README.md
