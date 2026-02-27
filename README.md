@@ -166,3 +166,10 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+
+### Step 4: Database Migrations
+```bash
+python manage.py makemigrations
+python manage.py migrate
+```
+
