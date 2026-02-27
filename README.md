@@ -53,3 +53,10 @@ Unlike simple CRUD apps, this system implements business logic where actions in 
 - Recent activity feed tracking cross-module transactions.
 
 
+
+### 2. **Finance Module (FI)**
+- **General Ledger:** Record Income and Expenses.
+- **P&L Reporting:** Automated calculation of Net Profit.
+- Transaction history with categorization (Rent, Payroll, Services).
+
+
