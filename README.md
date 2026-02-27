@@ -102,3 +102,10 @@ erp_system/
 └── db.sqlite3            # Centralized Relational Database
 ```
 
+### Design Principles
+- **DRY (Don't Repeat Yourself):** Base templates for layout consistency.
+- **Separation of Concerns:** Business logic resides in `views.py` and `models.py`.
+- **Responsive UI:** Built with Bootstrap 5 to ensure usability across devices.
+
+---
+
