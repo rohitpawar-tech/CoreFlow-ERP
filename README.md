@@ -200,3 +200,12 @@ If you want to demo the UI and logic immediately without setting up the Python b
 
 ---
 
+##  Future Enhancements
+
+- **Authentication:** Implement Django Auth for Role-Based Access Control (RBAC).
+- **Reporting:** Export PDF invoices and Excel reports for Finance.
+- **REST API:** Build a Django REST Framework (DRF) backend for mobile app connectivity.
+- **Advanced Analytics:** Integrate Pandas for deeper financial forecasting.
+- **Multi-tenancy:** Allow the system to handle multiple companies in a single DB instance.
+
+---
