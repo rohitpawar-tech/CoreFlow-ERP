@@ -81,3 +81,10 @@ Unlike simple CRUD apps, this system implements business logic where actions in 
 - **Payroll Planning:** Record annual salary data for expense forecasting.
 
 ---
+
+
+##  Architecture & Design
+
+This project follows a **Monolithic Modular Architecture**, similar to traditional on-premise ERP systems.
+
+```
