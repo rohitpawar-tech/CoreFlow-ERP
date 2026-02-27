@@ -133,3 +133,10 @@ This project mimics specific architectural concepts found in SAP:
 | **IDE** | VS Code |
 
 ---
+
+
+##  Installation & Setup
+
+### Prerequisites
+- Python 3.9 or higher installed.
+- pip (Python package manager).
