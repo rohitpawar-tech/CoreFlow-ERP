@@ -43,3 +43,13 @@ Unlike simple CRUD apps, this system implements business logic where actions in 
 
 ---
 
+
+
+##  Key Features
+
+### 1. **Executive Dashboard**
+- Real-time KPI cards (Total Revenue, Net Profit, Pending Orders).
+- Interactive charts powered by **Chart.js** (Financial P&L, Sales Distribution).
+- Recent activity feed tracking cross-module transactions.
+
+
