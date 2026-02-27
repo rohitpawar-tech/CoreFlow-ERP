@@ -72,3 +72,12 @@ Unlike simple CRUD apps, this system implements business logic where actions in 
 - **Material Master:** Track products, SKUs, and Suppliers.
 - **Stock Valuation:** Real-time stock levels and total asset value.
 - **Low Stock Alerts:** Visual indicators for inventory below threshold
+
+
+
+
+### 5. **Human Capital (HCM)**
+- **Employee Database:** Manage staff details, positions, and departments.
+- **Payroll Planning:** Record annual salary data for expense forecasting.
+
+---
