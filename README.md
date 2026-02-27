@@ -88,3 +88,17 @@ Unlike simple CRUD apps, this system implements business logic where actions in 
 This project follows a **Monolithic Modular Architecture**, similar to traditional on-premise ERP systems.
 
 ```
+
+erp_system/
+│
+├── apps/
+│   ├── finance/          # Handles General Ledger (GL) logic
+│   ├── sales/            # Handles Order Processing
+│   ├── inventory/        # Handles Material Master Data
+│   └── hr/               # Handles Employee Master Data
+│
+├── templates/            # SAP Fiori-inspired UI
+├── static/               # CSS (Bootstrap) & JS (Logic)
+└── db.sqlite3            # Centralized Relational Database
+```
+
