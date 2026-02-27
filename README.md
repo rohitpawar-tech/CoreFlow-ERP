@@ -160,3 +160,9 @@ cd sap-erp-simulation
 python3 -m venv venv
 source venv/bin/activate
 ```
+
+
+### Step 3: Install Dependencies
+```bash
+pip install -r requirements.txt
+```
