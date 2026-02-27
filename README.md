@@ -26,3 +26,20 @@ A comprehensive, full-stack ERP simulation inspired by the architecture of **SAP
 - [License](#license)
 
 ---
+
+## 🌟 Project Overview
+
+This project is designed to replicate the modular nature of enterprise ERP systems. It allows businesses to manage financial transactions, track inventory, process sales orders, and manage employee records in a centralized database. 
+
+Unlike simple CRUD apps, this system implements business logic where actions in one module affect others (e.g., creating a Sales Order automatically updates Inventory levels and generates a Finance Journal Entry).
+
+### Screenshots
+*(Placeholder for screenshots)*
+> ![Dashboard](screenshots/dashboard.png)
+> *Executive Dashboard with KPIs and Charts*
+>
+> ![Sales](screenshots/sales.png)
+> *Sales & Distribution Order Management*
+
+---
+
