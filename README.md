@@ -188,3 +188,15 @@ python manage.py runserver
 Visit `http://127.0.0.1:8000/` in your browser.
 
 ---
+
+
+## ⚡ Quick Start (Simulation Mode)
+
+If you want to demo the UI and logic immediately without setting up the Python backend, you can use the standalone simulation file included in this repository.
+
+1.  Navigate to the project folder.
+2.  Open `erp_simulation.html` in your web browser.
+3.  **Note:** This version uses `localStorage` to simulate the database. Data will persist in your browser but will not be shared with other users.
+
+---
+
