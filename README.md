@@ -209,3 +209,15 @@ If you want to demo the UI and logic immediately without setting up the Python b
 - **Multi-tenancy:** Allow the system to handle multiple companies in a single DB instance.
 
 ---
+
+
+##  Author
+
+**Rohit Pawar **  
+*Full Stack Developer & Technical Architect*
+
+- [LinkedIn](https://www.linkedin.com/in/rohit-pawar-54132a246/)
+- [GitHub](https://github.com/rohitpawar-tech/CoreFlow-ERP/edit/main/README.md)
+
+---
+
